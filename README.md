@@ -87,19 +87,8 @@ high-availability systems, cost-optimized platforms, and developer tooling used 
 
 ---
 
-## 📂 Featured Repositories (Suggested to Pin)
-- **resume** → public resume repo  
-- **otel-opamp-lab** → OTEL + OPAMP supervisor POC  
-- **generate-pipeline** → Go-based dynamic GitLab pipeline generator  
-- **gcp-terraform-modules** → reusable modules  
-- **cloud-utilities** → tooling/scripts for cloud workflows  
-
-(If you want, I can write READMEs for each of these.)
-
----
-
 ## 📄 Resume
-📄 Download: *(Add your GitHub-hosted PDF link here)*  
+📄 Download:  
 You can also host it in a dedicated repo for easy sharing.
 
 ---
@@ -111,4 +100,3 @@ You can also host it in a dedicated repo for easy sharing.
 
 Thanks for stopping by! 🙌  
 I’m always open to collaborating on DevOps, Platform Engineering, and Observability projects.
-# profile
