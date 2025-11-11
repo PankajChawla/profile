@@ -5,7 +5,7 @@ Google Cloud Certified Platform Engineer with 15+ years building scalable cloud 
 enterprise clients. I specialize in Platform Engineering, GCP architecture, Kubernetes, FinOps 
 automation, and modern observability using OpenTelemetry.
 
-I've led multi-cloud initiatives for organizations like **Loblaw ($60B+ retail)**, delivering
+I've led multi-cloud initiatives for organizations like **($60B+ retail)**, delivering
 high-availability systems, cost-optimized platforms, and developer tooling used by 50+ teams.
 
 ---
